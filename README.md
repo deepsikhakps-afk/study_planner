@@ -21,6 +21,7 @@ Start adding subjects, exam dates, and topics.
 All data is saved automatically to your browser's localStorage and will persist between visits on the same browser/device.
 
 Note: Since this uses localStorage, data is device- and browser-specific. Clearing browser data/cache will erase saved subjects and topics. There is no login, sync, or cloud storage — this is intentional, matching the "no-database" project requirement.
+screenshot
 
 Tech stack
 HTML5
