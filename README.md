@@ -32,3 +32,10 @@ File structure
 study-planner/
 ├── index.html   # Full app: markup, styles, and script in one file
 └── README.md    # This file
+
+Possible extensions
+Export/import study data as JSON (backup without a database)
+Daily study session timer/log
+Notifications/reminders using the browser Notifications API
+Dark mode toggle
+Weekly/monthly calendar view of exams
