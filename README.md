@@ -32,7 +32,7 @@ Browser localStorage API for persistence
 File structure
 study-planner/
 ├── index.html   # Full app: markup, styles, and script in one file
-└── README.md    #
+└── README.md    
 
 Possible extensions
 Export/import study data as JSON (backup without a database)
