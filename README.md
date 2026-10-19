@@ -31,7 +31,7 @@ Google Fonts (Fraunces, IBM Plex Mono, Inter) — loaded via CDN
 Browser localStorage API for persistence
 File structure
 study-planner/
-├── index.html   # Full app: markup, styles, and script in one file
+├── index.html   
 └── README.md    
 
 Possible extensions
