@@ -22,7 +22,7 @@ All data is saved automatically to your browser's localStorage and will persist 
 
 Note: Since this uses localStorage, data is device- and browser-specific. Clearing browser data/cache will erase saved subjects and topics. There is no login, sync, or cloud storage — this is intentional, matching the "no-database" project requirement.
 screenshot
-
+![alt text](image.png)
 Tech stack
 HTML5
 CSS3 (custom properties, no framework)
@@ -32,7 +32,7 @@ Browser localStorage API for persistence
 File structure
 study-planner/
 ├── index.html   # Full app: markup, styles, and script in one file
-└── README.md    # This file
+└── README.md    #
 
 Possible extensions
 Export/import study data as JSON (backup without a database)
